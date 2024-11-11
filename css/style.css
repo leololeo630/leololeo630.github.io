@@ -1,0 +1,63 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f4f8;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+
+.nome {
+    font-size: 24px;
+    text-align: center;
+    color: #2b6777;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+header img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    width: 120px;
+}
+
+
+#email-link {
+    color: #1a73e8;
+    font-style: italic;
+}
+
+
+a {
+    color: #010c1b;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #0fd429;
+    text-decoration: underline;
+}
+
+
+section h1 {
+    font-family: 'Georgia', serif;
+    font-weight: bold;
+    color: #4b4b4b;
+}
+
+
+ul li, ol li {
+    text-transform: capitalize;
+    margin-bottom: 8px;
+}
+
+
+footer p {
+    font-size: 12px;
+    text-align: center;
+    color: #777;
+    text-decoration: overline;
+    margin-top: 20px;
+}
